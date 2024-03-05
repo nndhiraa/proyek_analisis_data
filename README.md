@@ -5,4 +5,4 @@ Data Analysis Project for Course
 ``` pip install streamlit ```
 ## Run App
 ``` streamlit run dashboard.py ```
-or open : https://ecommercestats.streamlit.app/
+\n or access : https://ecommercestats.streamlit.app/
